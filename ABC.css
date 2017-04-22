@@ -1,0 +1,80 @@
+*{
+	margin: 0px;
+	padding: 0px;
+ }
+
+body
+{
+background-color:#ffebcd;	
+}
+.header
+{
+	background-color:red;
+    text-align: center;
+    padding:150px 0px;
+
+}
+.header h1
+{
+  text-align: center;
+  font-size: 100px;
+  color:brown ;
+}
+.header p 
+{
+	text-align: center;
+	color: white;
+	font-size: 15px;
+}
+.services
+{
+	padding:30px 0px;
+	text-align: center;
+}
+.services p
+{
+	color: green;
+	font-size: 15px;
+	text-align: center;
+}
+.courses
+{
+	padding: 30px 0px;
+	text-align: center;
+	background-color: red;
+}
+.courses p
+{
+	text-align: center;
+	color:green;
+	font-size: 15px;
+}
+.management
+{
+	padding:30px 0px;
+	text-align:center;
+}
+.management p
+{
+	text-align: center;
+	color:green;
+	font-size: 15px;
+}
+
+/*
+.banner
+{
+	text-align: center;
+	padding: 40px 0px;
+}
+.banner img
+{
+	width: 300px;
+	height:250px;
+}
+*/
+.banner2
+{
+	text-align: center;
+	padding: 40px 0px;
+}
